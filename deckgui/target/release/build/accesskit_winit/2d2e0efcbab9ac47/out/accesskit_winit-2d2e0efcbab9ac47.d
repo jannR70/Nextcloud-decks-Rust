@@ -1,0 +1,9 @@
+C:\Users\jannek\dev\Nextcloud decks Rust\deckgui\target\release\build\accesskit_winit/2d2e0efcbab9ac47\out\accesskit_winit-2d2e0efcbab9ac47.d: C:\Users\jannek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.22.4\src\lib.rs C:\Users\jannek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.22.4\src\platform_impl\mod.rs C:\Users\jannek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.22.4\src\platform_impl\windows.rs
+
+C:\Users\jannek\dev\Nextcloud decks Rust\deckgui\target\release\build\accesskit_winit/2d2e0efcbab9ac47\out\libaccesskit_winit-2d2e0efcbab9ac47.rlib: C:\Users\jannek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.22.4\src\lib.rs C:\Users\jannek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.22.4\src\platform_impl\mod.rs C:\Users\jannek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.22.4\src\platform_impl\windows.rs
+
+C:\Users\jannek\dev\Nextcloud decks Rust\deckgui\target\release\build\accesskit_winit/2d2e0efcbab9ac47\out\libaccesskit_winit-2d2e0efcbab9ac47.rmeta: C:\Users\jannek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.22.4\src\lib.rs C:\Users\jannek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.22.4\src\platform_impl\mod.rs C:\Users\jannek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.22.4\src\platform_impl\windows.rs
+
+C:\Users\jannek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.22.4\src\lib.rs:
+C:\Users\jannek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.22.4\src\platform_impl\mod.rs:
+C:\Users\jannek\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.22.4\src\platform_impl\windows.rs:
